@@ -12,7 +12,7 @@
   "dependencies": {
     "gulp-util": "^3.0.7",
     "through2": "^2.0.1",
-    "@soyuka/jhaml": "^1.0.4-alpha"
+    "@soyuka/jhaml": "^1.0.5"
   },
   "devDependencies": {
     "event-stream": "^3.3.2",
