@@ -1,18 +1,22 @@
 {
   "name": "gulp-jhaml",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "description": "Haml as a stream",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "keywords": ["gulpplugin", "haml", "html"],
+  "keywords": [
+    "gulpplugin",
+    "haml",
+    "html"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "gulp-util": "^3.0.7",
     "through2": "^2.0.1",
-    "@soyuka/jhaml": "^1.0.5"
+    "@soyuka/jhaml": "^1.0.7"
   },
   "devDependencies": {
     "event-stream": "^3.3.2",
